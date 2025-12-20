@@ -1,8 +1,16 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "fr.lymion.lymion",
-    "sha256_cert_fingerprints": ["DD:BB:3C:EF:2E:88:99:35:5F:19:DC:33:D3:72:E9:36:44:09:2A:AF:AE:5F:56:86:5E:3F:E3:9A:CF:D7"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fr.lymion.lymion",
+      "sha256_cert_fingerprints": [
+        "DD:BB:3C:EF:2E:88:99:35:5F:19:DC:33:D3:72:E9:36:44:09:2A:AF:AE:5F:56:86:5E:3F:E3:9A:CF:D7",
+        "DD:BB:3C:EF:2E:88:99:35:5F:19:DC:33:D3:72:E9:36:44:09:2A:AF:AE:5F:56:86:5E:3F:E3:9A:CF:D7:D9:FC"
+      ]
+    }
   }
-}]
+]
